@@ -1,0 +1,11 @@
+LOTERIA PUSH (version sin Firebase) - Noemi Mata Ruiz
+
+1) Copia TODO el contenido de esta carpeta dentro de C:\Flutter Projects\loteria_push
+   (elige "Reemplazar" cuando Windows pregunte).
+2) Borra test\widget_test.dart si existe.
+3) Terminal 1:  cd server   y luego   npm start
+4) Terminal 2 (en loteria_push):
+      flutter clean
+      flutter pub get
+      flutter test
+      flutter run --dart-define=SERVIDOR=http://10.0.2.2:8080
