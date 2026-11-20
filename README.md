@@ -102,3 +102,4 @@
 
 ## APP FUNCIONANDO
 
+<img width="702" height="1378" alt="imagen" src="https://github.com/user-attachments/assets/e0bd4e24-5ad4-4ed0-a27e-f914d58878a3" />
